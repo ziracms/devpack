@@ -1,5 +1,7 @@
 # Development pack for Zira PHP Editor.
 
+[for Android 8 and below only]
+
 This pack includes the following statically linked binaries:
 
 * php 7.3.22 with built-in:
